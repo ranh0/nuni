@@ -72,14 +72,19 @@ nav a:hover{
 
 }
 .produtos-preco{
-font-size: 22px;
-font-weight: bold;
-margin-top: 10px;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 10px;
 
 }
 foother{
-padding: 0px;
-text-align: center;
-background: #000000;
+  padding: 0px;
+  text-align: center;
+  background: #000000;
 
+}
+.copyright{
+  color: white;
+  font-size: 13px;
+  margin: 20px 0 20px;
 }
